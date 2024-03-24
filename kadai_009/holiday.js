@@ -2,7 +2,7 @@ holidays = ["正月","成人の日","建国記念日","天皇誕生日","春分�
 
 console.log('◆for文の出力');
 
-for(let i = 0; i <= 16; i++){
+for(let i = 0; i < 16; i++){
     console.log(holidays[i]);
 }
 
